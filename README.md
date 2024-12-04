@@ -1,1 +1,3 @@
 # CHAPTER-3-PORTFOLIO
+
+In this project, I learned the fundamentals of Dart, the language used for Flutter development. I explored Dart’s basic syntax, including variable declarations (var, final, const), data types (int, String, bool), and control flow (if, for, switch). I practiced defining functions and working with collections like Lists, Sets, and Maps. I also delved into object-oriented programming (OOP) concepts, including classes, constructors, and methods. Additionally, I learned about asynchronous programming with Future and async/await. This solid understanding of Dart's core features provides a strong foundation for developing Flutter apps.
